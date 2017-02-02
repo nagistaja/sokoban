@@ -1,5 +1,9 @@
 # sokoban
 
+Name: Jaak
+
+Description: Simple sokoban game with editor
+
 To run a game:
 
 	java -level levelName.skb
@@ -24,3 +28,5 @@ Game mode colors:
 Editor mode colors:
 	empty - white
 	everything else is same as in game mode
+	
+Licence: MIT
